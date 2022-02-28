@@ -1,1 +1,1 @@
-uname
+Linux
